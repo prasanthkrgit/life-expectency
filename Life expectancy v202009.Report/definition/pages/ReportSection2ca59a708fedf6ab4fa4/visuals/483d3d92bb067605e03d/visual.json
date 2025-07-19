@@ -7,7 +7,7 @@
     "z": 16000,
     "height": 209.79429329794294,
     "width": 325.30856005308561,
-    "tabOrder": 16000
+    "tabOrder": 15000
   },
   "visual": {
     "visualType": "barChart",
@@ -627,23 +627,5 @@
       ]
     },
     "drillFilterOtherVisuals": true
-  },
-  "filterConfig": {
-    "filters": [
-      {
-        "name": "49d4c1eed4c0adc0eec1",
-        "field": {
-          "Column": {
-            "Expression": {
-              "SourceRef": {
-                "Entity": "Sex"
-              }
-            },
-            "Property": "Sex"
-          }
-        },
-        "type": "Categorical"
-      }
-    ]
   }
 }

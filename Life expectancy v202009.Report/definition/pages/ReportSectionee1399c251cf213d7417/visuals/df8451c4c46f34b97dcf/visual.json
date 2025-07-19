@@ -6,7 +6,8 @@
     "y": 89.275362318840578,
     "z": 2000,
     "height": 493,
-    "width": 798.84057971014488
+    "width": 798.84057971014488,
+    "tabOrder": 13000
   },
   "visual": {
     "visualType": "shapeMap",

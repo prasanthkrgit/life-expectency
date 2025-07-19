@@ -7,7 +7,7 @@
     "z": 15000,
     "height": 254.81088254810885,
     "width": 326.15792966157932,
-    "tabOrder": 15000
+    "tabOrder": 14000
   },
   "visual": {
     "visualType": "lineChart",
@@ -59,6 +59,13 @@
               "expr": {
                 "Literal": {
                   "Value": "true"
+                }
+              }
+            },
+            "end": {
+              "expr": {
+                "Literal": {
+                  "Value": "2050D"
                 }
               }
             }
